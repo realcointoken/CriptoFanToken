@@ -12,12 +12,12 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://www.in-dex-swap.ml/#/swap',
+        href: 'https://cripto-fan-token.vercel.app/#/swap',
       },
       {
         label: 'Liquidity',
         href:
-          'https://www.in-dex-swap.ml/#/pool',
+          'https://cripto-fan-token.vercel.app/#/pool',
       },
     ],
   },
@@ -56,15 +56,15 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/',
+        href: 'https://www.coingecko.com/en/coins/CriptoFan',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/',
+        href: 'https://coinmarketcap.com/currencies/CriptoFan',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/', // InDex-busd
+        href: 'https://app.astrotools.io/pancake-pair-explorer/', // CriptoFan-busd
       },
     ],
   },
@@ -73,27 +73,27 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: 'Hacken Audit',
-        href: 'https://index.finance/files/in-dex-finance',
+        label: 'Website',
+        href: 'https://criptofan.com.br/',
       },
       {
         label: 'Github',
-        href: 'https://github.com/InDexfinance/',
+        href: 'https://github.com/CriptoFan/',
       },
       {
         label: 'Docs',
-        href: 'https://idsdefi.gitbook.io/in-dex-sale/the-company/about-this',
+        href: 'https://criptofan.com.br/wp-content/uploads/2022/07/LitePaper-1.0.pdf',
       },
       {
         label: 'Blog',
-        href: 'https://index-finance.medium.com/',
+        href: 'https://medium.com/',
       },
     ],
   },
   {
-    label: 'Hacken Audit',
+    label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://index.finance/files/in-dex-finance',
+    href: 'https://criptofan.com.br/',
   },
 ]
 
