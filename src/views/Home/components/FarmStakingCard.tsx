@@ -72,12 +72,12 @@ const FarmedStakingCard = () => {
         </Heading>
         <CardImage src="/images/taco/TACO.png" alt="cake logo" width={64} height={64} />
         <Block>
-          <Label>{TranslateString(544, 'TACO to Harvest')}</Label>
+          <Label>{TranslateString(544, 'CriptoFan to Harvest')}</Label>
           <CakeHarvestBalance earningsSum={earningsSum} />
           <Label>~${(eggPrice * earningsSum).toFixed(2)}</Label>
         </Block>
         <Block>
-          <Label>{TranslateString(546, 'TACO in Wallet')}</Label>
+          <Label>{TranslateString(546, 'CriptoFan in Wallet')}</Label>
           <CakeWalletBalance cakeBalance={cakeBalance} />
           <Label>~${(eggPrice * cakeBalance).toFixed(2)}</Label>
         </Block>
@@ -90,7 +90,7 @@ const FarmedStakingCard = () => {
               fullWidth
             >
               {pendingTx
-                ? TranslateString(548, 'Collecting TACO')
+                ? TranslateString(548, 'Collecting CriptoFan')
                 : TranslateString(999, `Harvest all (${balancesWithValue.length})`)}
             </Button>
           ) : (
