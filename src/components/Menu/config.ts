@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://cripto-fan-token.vercel.app/#/swap',
+        href: 'https://pancakeswap.finance/swap',
       },
       {
         label: 'Liquidity',
