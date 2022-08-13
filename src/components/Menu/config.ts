@@ -12,12 +12,12 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://pancakeswap.finance/swap',
+        href: 'https://criptofanamm.vercel.app/#/swap',
       },
       {
         label: 'Liquidity',
         href:
-          'https://pancakeswap.finance/liquidity',
+          'https://criptofanamm.vercel.app/#/pool',
       },
     ],
   },
