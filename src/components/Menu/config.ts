@@ -17,7 +17,7 @@ const config: MenuEntry[] = [
       {
         label: 'Liquidity',
         href:
-          'https://cripto-fan-token.vercel.app/#/pool',
+          'https://pancakeswap.finance/liquidity',
       },
     ],
   },
@@ -29,7 +29,7 @@ const config: MenuEntry[] = [
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '/pool',
+    href: '/pools',
   },
   // {
   //   label: 'Pools',
