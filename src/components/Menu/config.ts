@@ -74,11 +74,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Website',
-        href: 'https://criptofan.finance',
+        href: 'https://cryptofan.finance',
       },
       {
         label: 'Github',
-        href: 'https://github.com/CriptoFan/',
+        href: 'https://github.com/CryptoFan/',
       },
       {
         label: 'Docs',
@@ -93,7 +93,7 @@ const config: MenuEntry[] = [
   {
     label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://criptofan.finance',
+    href: 'https://cryptofan.finance/wp-content/uploads/2022/07/WhitePaper-1.0-CryptoFan-Token-1.pdf',
   },
 ]
 
