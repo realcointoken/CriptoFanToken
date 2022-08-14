@@ -1,6 +1,6 @@
 export default {
   cake: {
-    56: '0x3705496ee4614f7fe939e410f5a03df988148e50', // In-Dex TOKEN
+    56: '0x841E83120462945F32a6687AD28a5E7Bee023169', // In-Dex TOKEN
     97: '',
   },
   masterChef: {
