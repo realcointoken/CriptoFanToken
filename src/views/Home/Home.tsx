@@ -61,8 +61,8 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
-          <span style={{ fontFamily: 'Arial', textTransform: 'uppercase', fontSize: '40pt' }}>
-            {TranslateString(576, 'CriptoFan')}
+          <span style={{ fontFamily: 'Ostrich Sans', textTransform: 'uppercase', fontSize: '40pt' }}>
+            {TranslateString(576, 'CryptoFan')}
           </span>
         </Heading>
         <Text>
