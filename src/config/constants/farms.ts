@@ -10,7 +10,7 @@ const farms: FarmConfig[] = [
     risk: 5,
     lpSymbol: '$CFT-BUSD LP',
     lpAddresses: {
-      97: '',
+      97: '0x841E83120462945F32a6687AD28a5E7Bee023169',
       56: 0xe9e7cea3dedca5984780bafc599bd69add087d56,
     },
     tokenSymbol: '$TACO',
@@ -25,7 +25,7 @@ const farms: FarmConfig[] = [
     risk: 5,
     lpSymbol: '$CFT-BNB LP',
     lpAddresses: {
-      97: '',
+      97: '0x841E83120462945F32a6687AD28a5E7Bee023169',
       56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c,
     },
     tokenSymbol: '$TACO',
