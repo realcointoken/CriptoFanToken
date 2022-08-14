@@ -13,7 +13,7 @@ const farms: FarmConfig[] = [
       97: '0x11CE35aa3eE3639C30FEF3Af9A359A638B29Fba8',
       56: TACO_BUSD_LP_MAINNET,
     },
-    tokenSymbol: '$CFT',
+    tokenSymbol: '$TACO',
     tokenAddresses: {
       97: '0x3705496eE4614f7fE939E410f5A03dF988148e50',
       56: TACO_MAINNET,
@@ -28,7 +28,7 @@ const farms: FarmConfig[] = [
       97: '0x01b1405bEF38652468C9f43861010eB73E0AA443',
       56: TACO_BNB_LP_MAINNET,
     },
-    tokenSymbol: '$CFT',
+    tokenSymbol: '$TACO',
     tokenAddresses: {
       97: '0x3705496eE4614f7fE939E410f5A03dF988148e50',
       56: TACO_MAINNET,
