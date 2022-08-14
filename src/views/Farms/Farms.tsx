@@ -94,16 +94,16 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
       <div style={style}>
         <Heading as="h1" size="lg" color="primary" mb="50px" style={{ textAlign: 'center' }}>
           {tokenMode
-            ? TranslateString(10002, 'Stake tokens to earn CriptoFan')
-            : TranslateString(320, 'Stake LP tokens to earn CriptoFan')}
+            ? TranslateString(10002, 'Stake tokens to earn CryptoFan')
+            : TranslateString(320, 'Stake LP tokens to earn CryptoFan')}
         </Heading>
         <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-          {TranslateString(10000, 'Deposit Fee will be used to buyback CriptoFan')}
+          {TranslateString(10000, 'Deposit Fee will be used to buyback CryptoFan')}
         </Heading>
         {tokenMode && (
           <img
             src="/images/taco/taco_truck_2.png"
-            alt="CriptoFan Pools"
+            alt="CryptoFan Pools"
             width={200}
             style={{ position: 'absolute', top: 50, right: 20 }}
           />
