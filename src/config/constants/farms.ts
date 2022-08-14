@@ -307,7 +307,7 @@ const farms: FarmConfig[] = [
     risk: 3,
     lpSymbol: '$CFT-USDT LP',
     lpAddresses: {
-      97: '',
+      97: '0x55d398326f99059ff775485246999027b3197955',
       56: '0x841E83120462945F32a6687AD28a5E7Bee023169', // LINA-BUSD LP
     },
     tokenSymbol: 'TACO',
@@ -322,7 +322,7 @@ const farms: FarmConfig[] = [
     risk: 3,
     lpSymbol: '$CFT-USDC LP',
     lpAddresses: {
-      97: '',
+      97: '0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d',
       56: '0x841E83120462945F32a6687AD28a5E7Bee023169', // LINA-BUSD LP
     },
     tokenSymbol: 'TACO',
