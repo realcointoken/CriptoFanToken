@@ -56,11 +56,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/CriptoFan',
+        href: 'https://www.coingecko.com/en/coins/CryptoFan',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/CriptoFan',
+        href: 'https://coinmarketcap.com/currencies/CryptoFan',
       },
       {
         label: 'AstroTools',
