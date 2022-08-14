@@ -16,8 +16,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Liquidity',
-        href:
-          'https://criptofanamm.vercel.app/#/pool',
+        href: 'https://criptofanamm.vercel.app/#/pool',
       },
     ],
   },
@@ -29,12 +28,12 @@ const config: MenuEntry[] = [
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '/pools',
+    href: '/pool',
   },
   // {
   //   label: 'Pools',
   //   icon: 'PoolIcon',
-  //   href: '/pools',
+  //   href: '/pool',
   // },
   // {
   //   label: 'Lottery',
