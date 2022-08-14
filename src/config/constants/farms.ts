@@ -16,7 +16,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: '$TACO',
     tokenAddresses: {
       97: '',
-      56: 0x841E83120462945F32a6687AD28a5E7Bee023169,
+      56: '0x841E83120462945F32a6687AD28a5E7Bee023169',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -25,8 +25,8 @@ const farms: FarmConfig[] = [
     risk: 5,
     lpSymbol: '$CFT-BNB LP',
     lpAddresses: {
-      97: '',
-      56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c,
+      97: '0x01b1405bEF38652468C9f43861010eB73E0AA443',
+      56: TACO_BNB_LP_MAINNET,
     },
     tokenSymbol: '$TACO',
     tokenAddresses: {
