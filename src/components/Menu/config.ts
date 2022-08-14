@@ -92,7 +92,7 @@ const config: MenuEntry[] = [
   {
     label: 'Website',
     icon: 'AuditIcon',
-    href: 'https://cryptofan.finance/wp-content/uploads/2022/07/WhitePaper-1.0-CryptoFan-Token-1.pdf',
+    href: 'https://cryptofan.finance/',
   },
 ]
 
