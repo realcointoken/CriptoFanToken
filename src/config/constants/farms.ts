@@ -97,17 +97,17 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    risk: 4,
+    risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'CAKE',
+    lpSymbol: '$CFT',
     lpAddresses: {
       97: '',
-      56: '0x0ed8e0a2d99643e1e65cca22ed4424090b8b7458', // CAKE-BUSD LP
+      56: TACO_BUSD_LP_MAINNET, // $CFT-BUSD LP
     },
-    tokenSymbol: 'CAKE',
+    tokenSymbol: '$CFT',
     tokenAddresses: {
       97: '',
-      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+      56: TACO_MAINNET,
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
